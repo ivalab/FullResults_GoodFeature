@@ -19,3 +19,5 @@
 - VINS-Mono https://github.com/peter-zhao/VINS-Mono
 - MSCKF Stereo https://github.com/peter-zhao/msckf_vio
 - OKVIS Stereo https://github.com/peter-zhao/okvis
+
+* compared to the official repos, the baseline methods in my repo are with explicit logging on pose tracking and time cost.

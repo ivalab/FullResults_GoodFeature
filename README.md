@@ -9,6 +9,7 @@
 - TUM VI Mono & Stereo https://vision.in.tum.de/data/datasets/visual-inertial-dataset
 - TUM RGBD Mono https://vision.in.tum.de/data/datasets/rgbd-dataset
 - ICL NUIM Mono https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
+- KITTI Stereo http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
 ### VO/VSLAM/VINS Systems Assessed
 - Proposed Good Feature Mono & Stereo [not released yet]

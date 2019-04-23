@@ -12,12 +12,11 @@
 - KITTI Stereo http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
 ### VO/VSLAM/VINS Systems Assessed
-- Proposed Good Feature Mono https://github.com/YipuZhao/GF_ORB_SLAM
-- Proposed Good Feature Stereo [will be release soon]
-- ORB-SLAM Mono https://github.com/YipuZhao/ORB_SLAM
-- ORB-SLAM Stereo https://github.com/YipuZhao/ORB_SLAM2
+- ORB-SLAM Mono with/without Good Feature https://github.com/YipuZhao/GF_ORB_SLAM
+- ORB-SLAM Stereo with/without Good Feature [will be release soon]
 - SVO Mono & Stereo https://github.com/YipuZhao/rpg_svo
 - DSO Mono https://github.com/YipuZhao/DSO
+- DSO Stereo [results downloaded from https://vision.in.tum.de/research/vslam/stereo-dso]
 - ROVIO Mono https://github.com/YipuZhao/rovio
 - VINS-Mono https://github.com/YipuZhao/VINS-Mono
 - MSCKF Stereo https://github.com/YipuZhao/msckf_vio

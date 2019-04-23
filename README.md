@@ -12,7 +12,7 @@
 - KITTI Stereo http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
 ### VO/VSLAM/VINS Systems Assessed
-- Proposed Good Feature Mono [https://github.com/YipuZhao/GF_ORB_SLAM]
+- Proposed Good Feature Mono https://github.com/YipuZhao/GF_ORB_SLAM
 - Proposed Good Feature Stereo [will be release soon]
 - ORB-SLAM Mono https://github.com/YipuZhao/ORB_SLAM
 - ORB-SLAM Stereo https://github.com/YipuZhao/ORB_SLAM2

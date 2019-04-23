@@ -12,14 +12,15 @@
 - KITTI Stereo http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 
 ### VO/VSLAM/VINS Systems Assessed
-- Proposed Good Feature Mono & Stereo [not released yet]
-- ORB-SLAM Mono & Stereo https://github.com/peter-zhao/ORB_SLAM2
-- SVO Mono & Stereo https://github.com/peter-zhao/rpg_svo
-- DSO Mono https://github.com/peter-zhao/DSO
-- ROVIO Mono https://github.com/peter-zhao/rovio
-- VINS-Mono https://github.com/peter-zhao/VINS-Mono
-- MSCKF Stereo https://github.com/peter-zhao/msckf_vio
-- OKVIS Stereo https://github.com/peter-zhao/okvis
-
+- Proposed Good Feature Mono [https://github.com/YipuZhao/GF_ORB_SLAM]
+- Proposed Good Feature Stereo [will be release soon]
+- ORB-SLAM Mono https://github.com/YipuZhao/ORB_SLAM
+- ORB-SLAM Stereo https://github.com/YipuZhao/ORB_SLAM2
+- SVO Mono & Stereo https://github.com/YipuZhao/rpg_svo
+- DSO Mono https://github.com/YipuZhao/DSO
+- ROVIO Mono https://github.com/YipuZhao/rovio
+- VINS-Mono https://github.com/YipuZhao/VINS-Mono
+- MSCKF Stereo https://github.com/YipuZhao/msckf_vio
+- OKVIS Stereo https://github.com/YipuZhao/okvis
 
 Compared to the official repos, the baseline methods in my repo are with explicit logging on pose tracking and time cost.

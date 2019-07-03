@@ -13,7 +13,7 @@
 
 ### VO/VSLAM/VINS Systems Assessed
 - ORB-SLAM Mono with/without Good Feature https://github.com/YipuZhao/GF_ORB_SLAM
-- ORB-SLAM Stereo with/without Good Feature [will be release soon]
+- ORB-SLAM Stereo with/without Good Feature https://github.com/ivalab/gf_orb_slam2
 - SVO Mono & Stereo https://github.com/YipuZhao/rpg_svo
 - DSO Mono https://github.com/YipuZhao/DSO
 - DSO Stereo [results downloaded from https://vision.in.tum.de/research/vslam/stereo-dso]
@@ -23,3 +23,17 @@
 - OKVIS Stereo https://github.com/YipuZhao/okvis
 
 Compared to the official repos, the baseline methods in my repo are with explicit logging on pose tracking and time cost.
+
+## References
+
+	@article{zhao2019good,
+	  title={Good Feature Matching: Towards Accurate, Robust VO/VSLAM with Low Latency},
+	  author={Zhao, Yipu and Vela, Patricio A.},
+	  journal={submitted to IEEE Transactions on Robotics},
+	  year={2019}
+	}	
+
+## Contact information
+
+- Yipu Zhao		yipu.zhao@gatech.edu
+- Patricio A. Vela	pvela@gatech.edu
